@@ -1,0 +1,31 @@
+{
+  "name": "is-local",
+  "version": "0.1.0",
+  "description": "Check if a URL is local or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/is-local"
+  },
+  "keywords": [
+    "is",
+    "local",
+    "local",
+    "url",
+    "url",
+    "utility"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/is-local/issues"
+  },
+  "homepage": "https://github.com/weo-edu/is-local",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
+}
